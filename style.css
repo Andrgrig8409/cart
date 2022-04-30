@@ -1,0 +1,100 @@
+body {
+    background-color: #ddd;
+    font-family: sans-serif;
+}
+
+.content {
+    background-color: #fff;
+    width: 320px;
+    margin: 0 auto;
+    padding: 10px 20px;
+}
+
+.code {
+    text-align: right;
+    font-size: 12px;
+    color: #777;
+}
+
+.main_pic {
+    display: block;
+    margin: 20px auto 0;
+}
+
+.caption {
+    margin: 60px 0 20px;
+}
+
+.caption span {
+    background-color: #ec4833;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.rating img {
+    float: left;
+    width: 12px;
+    padding: 4px 3px 25px 0;
+}
+
+.rating span {
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.clr {
+    clear: both;
+}
+
+.price_title {
+    font-size: 11px;
+    margin-bottom: 3px;
+}
+
+.price {
+    color: #ec4833;
+    font-weight: bold;
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+.cashback {
+    background-color: #fdeeb9;
+    font-weight: bold;
+    padding: 3px;
+    font-size: 14px;
+}
+
+.no_price {
+    font-size: 14px;
+    margin: 5px 0 15px;
+}
+
+.btm button {
+    float: left;
+    background-color: #4aa852;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    padding: 10px 60px;
+    border: 0;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.btm img {
+    float: left;
+    width: 25px;
+    margin: 10px 0 0 30px;
+    cursor: pointer;
+}
